@@ -21,5 +21,8 @@ HTML | JavaScript | Node.JS
 * npm install jest
 * npm install inquirer
 
+<p align ="center"><img src="Screenshots/example.png" style ="height: 800px"></p>
+<P align ="center"><img src="Screenshots/html_example.png" style ="height: 500px"></p>
+
 
 <h3 align="right"><a href="https://github.com/dylangough/Team-Profile-Generator">Github Link</a></h3>
